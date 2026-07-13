@@ -1,1 +1,9 @@
-
+{
+    "task_phase": "Build - Week 4 Baseline",
+    "total_records_evaluated": 30000,
+    "max_calculated_baseline_score": 78.92510638297873,
+    "mean_calculated_baseline_score": 21.8381988294025,
+    "queue_distribution": {
+        "total_refresh_candidates": 30000
+    }
+}
